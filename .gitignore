@@ -1,0 +1,10 @@
+.DS_Store
+.idea/
+.vscode/
+__pycache__/
+venv/
+*.csv
+*.txt
+*.zip
+vhi_data/
+.ipynb_checkpoints/
